@@ -160,7 +160,7 @@ history = [
 
 @app.route("/")
 def home():
-    return "hello this is project no 3 of test rest API  using postman"
+    return "hello this is project  of testing rest API  using postman"
 
 @app.route("/allcars")
 def all_sotres():
